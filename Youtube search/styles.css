@@ -1,0 +1,15 @@
+.container{
+    width:20%;
+    float: right;
+}
+.scroll-bg{
+    background-color:black;
+    width: 200px;
+}
+.scroll-div{
+    width: 220px;
+    background-color: black;
+    height: 210px;
+    overflow: hidden;
+    overflow-y: scroll;
+}
